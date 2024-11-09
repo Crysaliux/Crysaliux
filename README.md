@@ -4,7 +4,7 @@ My name's Crysaliux/Mester and I am mainly python developer :p
 ## I work with:
 
  - Web servers / Web applications and services (Django/Flask)
- - Discord applications such as bots (Discord.py + MysQL + Groq)
+ - Discord applications such as bots (Discord.py + MySQL + Groq)
  - AI applications: text models, image gen. models.
 
 
@@ -16,7 +16,7 @@ My name's Crysaliux/Mester and I am mainly python developer :p
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=flat&logo=discord&logoColor=white)
 
-## Sone of my stats :p
+## Some of my stats :p
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crysaliux&show_icons=true&theme=radical&count_private=true&hide=prs&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crysaliux&layout=compact&theme=radical)
