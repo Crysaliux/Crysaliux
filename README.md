@@ -16,7 +16,6 @@ My name's Crysaliux and I am a Fullstack/python developer.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-7289DA?style=flat&logo=discord&logoColor=white)
 
-## Some of my stats :p
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crysaliux&show_icons=true&theme=radical&count_private=true&hide=prs&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crysaliux&layout=compact&theme=radical)
