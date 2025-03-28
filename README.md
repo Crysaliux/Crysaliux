@@ -1,9 +1,9 @@
 # Bonjour mon ami!
-My name's Crysaliux/Mester and I am mainly python developer :p 
+My name's Crysaliux and I am a Fullstack/python developer.
 
 ## I work with:
 
- - Web servers / Web applications and services (Django/Flask)
+ - Web servers / Web applications and services (Django/Flask/FastApi)
  - Discord applications such as bots (Discord.py + MySQL + Groq)
  - AI applications: text models, image gen. models.
 
